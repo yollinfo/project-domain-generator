@@ -26,9 +26,6 @@ Here is an example:
 ### Hints:
 - Use nested loops or high-order functions like forEach() to create permutations.
 - Concatenate strings in the format: pronoun + adjective + noun + extension.
-- In JavaScript, create separate arrays to hold different parts of the excuse (e.g., subjects, actions, objects, and timings).
-- Use string concatenation to combine elements from these arrays into a complete excuse.
-- Introduce randomness! Use JavaScript to pick random elements from each array to generate new excuses every time.
 
 ### **🤔 What to Do If You Are Stuck?**
 #### **Review Fundamentals:**
