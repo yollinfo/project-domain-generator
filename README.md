@@ -21,8 +21,6 @@ Your task is to write the logic that generates all permutations of these arrays 
 
 Here is an example: 
 <img src="./assets/expected.png" alt="expected" width="800">
-
-The idea is to randomly generate each part of a sentence, resulting in uniquely entertaining excuses!
 ---
 
 ### Hints:
